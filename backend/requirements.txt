@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+langchain
+langchain-community
+langchain-openai      # or langchain-anthropic, etc.
+
+langgraph
+langchain-chroma
+chromadb
+
+pandas
+numpy
+tqdm
+
+httpx

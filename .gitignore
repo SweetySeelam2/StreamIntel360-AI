@@ -1,0 +1,13 @@
+venv/
+frontend/.next/
+frontend/node_modules/
+notebooks/.ipynb_checkpoints
+data/raw/data-extra_files/
+data/chroma/
+data/processed/
+backend/app/agents/__pycache__
+backend/venv/
+backend/app/rag/__pycache__
+backend/.env
+documentation/
+notebooks/.ipynb_checkpoints/

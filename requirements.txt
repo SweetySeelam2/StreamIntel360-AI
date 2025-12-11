@@ -1,0 +1,54 @@
+# ---------------------------
+# Core Backend
+# ---------------------------
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+
+# ---------------------------
+# CORS + HTTP
+# ---------------------------
+starlette==0.37.2
+aiohttp==3.9.5
+
+# ---------------------------
+# LangGraph + Agents
+# ---------------------------
+langchain==0.1.16
+langgraph==0.1.13
+langchain-community==0.0.32
+langchain-core==0.1.52
+
+# ---------------------------
+# Embeddings / RAG Layer
+# ---------------------------
+sentence-transformers==2.6.0
+faiss-cpu==1.7.4
+chromadb==0.4.24
+
+# ---------------------------
+# Data Science Utilities (used by notebooks and some backend tools)
+# ---------------------------
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# ---------------------------
+# Optional: Sentiment Model (Notebook 3)
+# ---------------------------
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# ---------------------------
+# JSON, serialization, misc
+# ---------------------------
+orjson==3.10.0
+
+# ---------------------------
+# Development helpers (optional)
+# ---------------------------
+ipykernel==6.29.4
+jupyterlab==4.1.6
