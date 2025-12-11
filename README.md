@@ -363,7 +363,7 @@ Rendered back to the user in the Web UI
 
 ## 📚 Dataset
 
-- Main catalog: data/netflix_titles_cleaned.csv
+- Main catalog: data/netflix_titles.csv (Used in notebooks 1, 2, & 4)
 
 - Includes:
 
@@ -503,4 +503,4 @@ https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
 
 **© 2025 Sweety Seelam**. This work is proprietary and protected by copyright. 
 
-All content, models, code, and visuals are © 2025 Sweety Seelam. No part of this project, app, code, or analysis may be copied, reproduced, distributed, or used for any purpose—commercial or otherwise—without explicit written permission from the author.
+All content, models, code, and visuals are © 2025 Sweety Seelam. No part of this project, app, code, or analysis may be copied, reproduced, distributed, or used for any purpose - commercial or otherwise - without explicit written permission from the author.
